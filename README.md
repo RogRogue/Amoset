@@ -1,4 +1,4 @@
-# Valorant Discord Bot
+# Amöset Discord Bot
 
 Discord sunucunuz için Valorant maç geçmişi görüntüleme botu.
 
